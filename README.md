@@ -8,7 +8,7 @@
 
 <p align="left">
   you can connect with me on: <br>
-  <a href="https://www.linkedin.com/in/thalia-gama/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/thalia-gama/" title="LinkedIn" target="_blanc">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
 
 </p>
